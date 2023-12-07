@@ -1,5 +1,7 @@
 # Membuat switch nirsentuh menggunakan Arduino dan sensor PIR
-Kelompok 8 terdiri dari 2 anggota yaitu: Farhan Alwahid | 105220020 dan Muhammad Alfaridza Maulana | 105220051
+Kelompok 8 terdiri dari 2 anggota yaitu: 
+ - Farhan Alwahid | 105220020
+ - Muhammad Alfaridza Maulana | 105220051
 
 ### Table of contents
 1. [Main Project Details](#project)
