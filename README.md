@@ -33,6 +33,3 @@ Solusi yang dapat ditawarkan adalah dengan menggunakan Membuat switch nirsentuh 
 ### Use case diagram <a name="uc"></a>
 
 ![Use case diagram](https://github.com/Rekanice/swe-G2-iot-project/blob/55faecf1ef122f0b1f06967e5f15ea0fc0469247/UML%20diagrams/usecase_diagram1.png)
-
-**Tentative features**
-- booking slots for using the washing machine
