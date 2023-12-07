@@ -32,4 +32,4 @@ Solusi yang dapat ditawarkan adalah dengan menggunakan Membuat switch nirsentuh 
 
 ### Use case diagram <a name="uc"></a>
 
-![Use case diagram](https://github.com/Leonfarhan/Kelompok-8-iot/use_case_diagram.jpeg)
+![Use case diagram](use_case_diagram.jpeg)
