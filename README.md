@@ -16,7 +16,11 @@ Kelompok 8 terdiri dari 2 anggota yaitu:
 ### Problem Statement <a name="prob"></a>
 
 ```
-Salah satu permasalahan yang sering dihadapi di kehidupan sehari-hari adalah kesulitan untuk mengontrol perangkat elektronik tanpa menyentuhnya. Misalnya, untuk menyalakan lampu atau membuka pintu, kita harus menyentuh tombol atau gagang. Hal ini dapat menjadi masalah bagi orang-orang yang memiliki keterbatasan fisik atau yang ingin menjaga kebersihan.
+Salah satu permasalahan yang sering dihadapi di kehidupan sehari-hari adalah kesulitan untuk mengontrol perangkat elektronik tanpa menyentuhnya.
+
+Misalnya, untuk menyalakan lampu atau membuka pintu, kita harus menyentuh tombol atau gagang.
+
+Hal ini dapat menjadi masalah bagi orang-orang yang memiliki keterbatasan fisik atau yang ingin menjaga kebersihan.
 ```
 
 <br/>
